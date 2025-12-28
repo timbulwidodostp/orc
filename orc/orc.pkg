@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'orc': Calculates the ordinal c-index (ORC) Use orc With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F orc.ado
+F orc.sthlp
