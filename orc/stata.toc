@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p orc Calculates the ordinal c-index (ORC) Use orc With STATA 19
